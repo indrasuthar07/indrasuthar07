@@ -16,10 +16,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indrasuthar07&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" style="display:inline-block;" width="32%" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=indrasuthar07&theme=tokyonight&hide_border=true&border_radius=12" style="display:inline-block;" width="32%" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=indrasuthar07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" style="display:inline-block;" width="32%" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=indrasuthar07&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" width="32%" style="display:inline-block;vertical-align:top;" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=indrasuthar07&theme=tokyonight&hide_border=true&border_radius=12" width="32%" style="display:inline-block;vertical-align:top;" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=indrasuthar07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" width="32%" style="display:inline-block;vertical-align:top;" alt="languages graph" />
 </div>
+
 
 
 
