@@ -16,15 +16,11 @@
 ###
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=indrasuthar07&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" height="160" alt="stats graph" />
-  
-  <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=indrasuthar07&theme=tokyonight&hide_border=true&border_radius=12" height="160" alt="streak graph" />
-  
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=indrasuthar07&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12" height="160" alt="languages graph" />
 </div>
+
 
 
 
