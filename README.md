@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmVsZTZyOXU2MWcyaGk1MGlqYWhzczBkMWJzejNoeWFjYmdpemNscCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UGrpkMXipFWQ06IHIM/giphy.gif" alt="Cool GIF" width="50%" />
+<img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/f9477b0e-37c4-4fd7-bda4-76f19242b2de" />
+
 </div>
 
 
