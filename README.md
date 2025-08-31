@@ -18,10 +18,10 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=indrasuthar07&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=12" height="160" style="display:inline-block;vertical-align:middle;" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=indrasuthar07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" style="display:inline-block;vertical-align:middle;" alt="stats graph" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=indrasuthar07&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&border_radius=12" height="160" style="display:inline-block;vertical-align:middle;" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrasuthar07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="display:inline-block;vertical-align:middle;" alt="languages graph" />
 </div>
 
 
