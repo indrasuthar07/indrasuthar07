@@ -16,13 +16,11 @@
 
 ###
 
-<div align="center">
+<p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=indrasuthar07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="160" style="display:inline-block;vertical-align:middle;" alt="stats graph" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indrasuthar07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="display:inline-block;vertical-align:middle;" alt="languages graph" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=indrasuthar07&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=indrasuthar07&theme=blue_navy&hide_border=false" />
+</p>
 
 
 
