@@ -18,9 +18,10 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=indrasuthar07&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=indrasuthar07&theme=blue_navy&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=indrasuthar07&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=indrasuthar07&theme=blue_navy&hide_border=false" height="150" />
 </p>
+
 
 
 
