@@ -20,18 +20,18 @@ jobs:
         uses: cyprieng/github-breakout@v1
         with:
           github_username: ${{ github.repository_owner }}
-          enable_ghost_bricks: false   # all days count as bricks
-          paddle_color: "#ff6f00"      # paddle color
-          ball_color: "#ff6f00"        # ball color
-          bricks_colors: "#ffe0b2,#ffcc80,#ffb74d,#ff9800,#e65100" # brick colors from low to high activity
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # ensure token is available
+          enable_ghost_bricks: false                  # all days count as bricks
+          paddle_color: "#ff6f00"                     # paddle color
+          ball_color: "#ff6f00"                       # ball color
+          bricks_colors: "#ffe0b2,#ffcc80,#ffb74d,#ff9800,#e65100" # brick colors
 
       - name: Move generated SVGs to temp
         run: |
           mkdir -p /tmp/breakout-images
-          mv output/light.svg /tmp/breakout-images/breakout-light.svg
-          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
-          # optional: move custom.svg if needed
-          [ -f output/custom.svg ] && mv output/custom.svg /tmp/breakout-images/breakout-custom.svg || echo "No custom.svg generated"
+          [ -f output/light.svg ] && mv output/light.svg /tmp/breakout-images/breakout-light.svg || echo "light.svg not found"
+          [ -f output/dark.svg ] && mv output/dark.svg /tmp/breakout-images/breakout-dark.svg || echo "dark.svg not found"
+          [ -f output/custom.svg ] && mv output/custom.svg /tmp/breakout-images/breakout-custom.svg || echo "custom.svg not found"
 
       - name: Configure git
         run: |
