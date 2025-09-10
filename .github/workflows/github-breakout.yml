@@ -3,7 +3,7 @@ name: generate breakout svg
 on:
   schedule:
     - cron: "0 */24 * * *"  # runs daily
-  workflow_dispatch:       # allows manual trigger
+  workflow_dispatch:         # allows manual trigger
 
 jobs:
   generate-svg:
@@ -21,16 +21,16 @@ jobs:
         with:
           github_username: ${{ github.repository_owner }}
           enable_ghost_bricks: true
-paddle_color: "#006064"
-ball_color: "#006064"
-bricks_colors: "#e0f7fa,#b2ebf2,#4dd0e1,#0097a7,#006064"
-
+          paddle_color: "#006064"
+          ball_color: "#006064"
+          bricks_colors: "#e0f7fa,#b2ebf2,#4dd0e1,#0097a7,#006064"
 
       - name: Move generated SVGs to temp
         run: |
           mkdir -p /tmp/breakout-images
-          mv output/light.svg /tmp/breakout-images/breakout-light.svg
-          mv output/dark.svg /tmp/breakout-images/breakout-dark.svg
+          [ -f output/light.svg ] && mv output/light.svg /tmp/breakout-images/breakout-light.svg || echo "light.svg not found"
+          [ -f output/dark.svg ] && mv output/dark.svg /tmp/breakout-images/breakout-dark.svg || echo "dark.svg not found"
+          [ -f output/custom.svg ] && mv output/custom.svg /tmp/breakout-images/breakout-custom.svg || echo "custom.svg not found"
 
       - name: Configure git
         run: |
