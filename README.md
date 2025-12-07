@@ -22,13 +22,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=indrasuthar07&theme=blue_navy&hide_border=false" height="150" />
 </p>
 
-
-
-
-
-
-
-
 ###
 
 <div align="left">
