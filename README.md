@@ -6,13 +6,13 @@
 <br>
 
 
-- 🔭 I’m currently working on **REACT VITE project**
+-  I’m currently working on **REACT VITE project**
 
-- 🌱 I’m currently learning **NLP, Gen AI**
+-  I’m currently learning **NLP, Gen AI**
 
-- 💬 Ask me about **MERN**
+-  Ask me about **MERN**
 
-- 📫 How to reach me **indrasuthar14@gmail.com**
+-  How to reach me **indrasuthar14@gmail.com**
 
 ###
 
