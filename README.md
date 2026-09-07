@@ -19,18 +19,18 @@
     <img src="https://img.shields.io/badge/LINKEDIN-1A1B27?style=for-the-badge" alt="Indra on LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://x.com/INDERX07">
+  <a href="https://x.com/INDAR_X07">
     <img src="https://img.shields.io/badge/X-1A1B27?style=for-the-badge&amp;logo=x&amp;logoColor=7DCFFF" alt="Indra on X" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/itz_indar__07.com/">
+  <a href="https://www.instagram.com/indar.exe.com/">
     <img src="https://img.shields.io/badge/INSTAGRAM-1A1B27?style=for-the-badge&amp;logo=instagram&amp;logoColor=BB9AF7" alt="Indra on Instagram" />
   </a>
 </p>
 
 <br />
 
-<p>
+<p align="center">
   I'm <strong>Indra</strong>, I work with the <strong>MERN stack</strong> and
   I'm exploring how <strong>natural language processing</strong> and
   <strong>generative AI</strong> can become part of what I build.
@@ -69,4 +69,5 @@
 <summary>About these stats</summary>
 These cards show my GitHub activity through GitHub Profile Summary Cards and GitHub Readme Streak Stats. Updates follow each provider's cache.
 </details>
+
 **Have a MERN question or an AI idea?** [Let's talk →](mailto:indrasuthar14@gmail.com)
