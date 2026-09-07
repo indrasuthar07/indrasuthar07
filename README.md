@@ -19,11 +19,11 @@
     <img src="https://img.shields.io/badge/LINKEDIN-1A1B27?style=for-the-badge" alt="Indra on LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://x.com/INDERX07">
+  <a href="https://x.com/INDAR_X07">
     <img src="https://img.shields.io/badge/X-1A1B27?style=for-the-badge&amp;logo=x&amp;logoColor=7DCFFF" alt="Indra on X" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/itz_indar__07.com/">
+  <a href="https://www.instagram.com/indar.exe.com/">
     <img src="https://img.shields.io/badge/INSTAGRAM-1A1B27?style=for-the-badge&amp;logo=instagram&amp;logoColor=BB9AF7" alt="Indra on Instagram" />
   </a>
 </p>
