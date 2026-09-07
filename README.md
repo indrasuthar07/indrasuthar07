@@ -2,24 +2,41 @@
  <img width="480" height="270" alt="two" src="https://github.com/user-attachments/assets/74ec3c3d-cc63-494b-b892-a57834a74414" />
 
 </p>
+<h2 align="center">Hey, I'm Indra 👋</h2>
 
 <p align="center">
-  <a href="mailto:indrasuthar14@gmail.com"><img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&amp;logo=gmail&amp;logoColor=7AA2F7" alt="Email Indra" /></a>
-  <a href="https://www.linkedin.com/in/indar-suthar/"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge" alt="Indra on LinkedIn" /></a>
-  <a href="https://x.com/INDERX07"><img src="https://img.shields.io/badge/X-1A1B27?style=for-the-badge&amp;logo=x&amp;logoColor=7DCFFF" alt="Indra on X" /></a>
-  <a href="https://www.instagram.com/itz_indar__07.com/"><img src="https://img.shields.io/badge/Instagram-1A1B27?style=for-the-badge&amp;logo=instagram&amp;logoColor=BB9AF7" alt="Indra on Instagram" /></a>
+  <strong>Full-stack developer · Gen AI · India</strong>
+  <br />
+  Building for the web. Exploring what's possible with AI.
 </p>
 
-I'm **Indra**, a full-stack developer and AI/ML enthusiast from India. I work with the **MERN stack** and I'm exploring how natural language processing and generative AI connect with web development.
+<p align="center">
+  <a href="mailto:indrasuthar14@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-1A1B27?style=for-the-badge&amp;logo=gmail&amp;logoColor=7AA2F7" alt="Email Indra" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/indar-suthar/">
+    <img src="https://img.shields.io/badge/LINKEDIN-1A1B27?style=for-the-badge" alt="Indra on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/INDERX07">
+    <img src="https://img.shields.io/badge/X-1A1B27?style=for-the-badge&amp;logo=x&amp;logoColor=7DCFFF" alt="Indra on X" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/itz_indar__07.com/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-1A1B27?style=for-the-badge&amp;logo=instagram&amp;logoColor=BB9AF7" alt="Indra on Instagram" />
+  </a>
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top"><sub>CURRENT BUILD</sub><br /><strong>React + Vite project</strong></td>
-<td width="50%" valign="top"><sub>CURRENT EXPLORATION</sub><br /><strong>NLP &amp; generative AI</strong></td>
-</tr>
-</table>
+<br />
 
-## 02 / The toolkit
+<p>
+  I'm <strong>Indra</strong>, I work with the <strong>MERN stack</strong> and
+  I'm exploring how <strong>natural language processing</strong> and
+  <strong>generative AI</strong> can become part of what I build.
+</p>
+
+## The toolkit
 
 <picture>
   <source media="(max-width: 640px)" srcset="./assets/toolkit-mobile.svg" />
@@ -36,8 +53,6 @@ I'm **Indra**, a full-stack developer and AI/ML enthusiast from India. I work wi
 
 </details>
 
-## 03 / The commit trail
-
 <p align="center">
   <a href="https://github.com/indrasuthar07">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indrasuthar07&amp;theme=tokyonight&amp;name=Indra%20Suthar" width="700" alt="Indra's GitHub contribution history and activity summary" />
@@ -52,25 +67,6 @@ I'm **Indra**, a full-stack developer and AI/ML enthusiast from India. I work wi
 
 <details>
 <summary>About these stats</summary>
-
 These cards show my GitHub activity through GitHub Profile Summary Cards and GitHub Readme Streak Stats. Updates follow each provider's cache.
-
 </details>
-
-## 04 / After the commit
-
-My contribution history, with an arcade twist.
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/indrasuthar07/indrasuthar07/refs/heads/github-breakout/images/breakout-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/indrasuthar07/indrasuthar07/refs/heads/github-breakout/images/breakout-light.svg" />
-    <img src="https://raw.githubusercontent.com/indrasuthar07/indrasuthar07/refs/heads/github-breakout/images/breakout-light.svg" width="700" alt="Breakout-style animation of Indra's GitHub contributions" />
-  </picture>
-</p>
-
----
-
 **Have a MERN question or an AI idea?** [Let's talk →](mailto:indrasuthar14@gmail.com)
-
-<p align="right"><sub>INDRA SUTHAR / ALWAYS BUILDING.</sub></p>
