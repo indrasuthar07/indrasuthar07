@@ -30,7 +30,7 @@
 
 <br />
 
-<p>
+<p align="center">
   I'm <strong>Indra</strong>, I work with the <strong>MERN stack</strong> and
   I'm exploring how <strong>natural language processing</strong> and
   <strong>generative AI</strong> can become part of what I build.
@@ -69,4 +69,5 @@
 <summary>About these stats</summary>
 These cards show my GitHub activity through GitHub Profile Summary Cards and GitHub Readme Streak Stats. Updates follow each provider's cache.
 </details>
+
 **Have a MERN question or an AI idea?** [Let's talk →](mailto:indrasuthar14@gmail.com)
