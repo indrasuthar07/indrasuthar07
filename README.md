@@ -2,12 +2,10 @@
  <img width="480" height="270" alt="two" src="https://github.com/user-attachments/assets/74ec3c3d-cc63-494b-b892-a57834a74414" />
 
 </p>
-<h2 align="center">Hey, I'm Indra 👋</h2>
 
 <p align="center">
   <strong>Full-stack developer · Gen AI · India</strong>
-  <br />
-  Building for the web. Exploring what's possible with AI.
+  
 </p>
 
 <p align="center">
@@ -31,9 +29,7 @@
 <br />
 
 <p align="center">
-  I'm <strong>Indra</strong>, I work with the <strong>MERN stack</strong> and
-  I'm exploring how <strong>natural language processing</strong> and
-  <strong>generative AI</strong> can become part of what I build.
+  I'm Indra. I build full-stack stuff, spend most of time on the backend, a bit on frontend and occasionally building smarter things with AI.
 </p>
 
 ## The toolkit
